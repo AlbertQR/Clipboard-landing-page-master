@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bai Jamjuree";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #4c545dff;
+  font-weight: 600;
+  line-height: 3rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  line-height: 2.25rem !important;
+}
+
+p {
+  color: #9fabb2ff;
+  font-size: 1.07rem;
+  line-height: 1.65rem;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
